@@ -1,4 +1,4 @@
-# JavaScripts-projects-for-beginner
+# JavaScript-projects-for-beginner
 Build simple projects to practice javascript skills.
 
 Reference:
