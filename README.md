@@ -1,5 +1,5 @@
 # JavaScript-projects-for-beginner
-Build simple projects to practice javascript skills.
+Build simple projects to practice JavaScript skills.
 
 Reference:
 1. https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners
