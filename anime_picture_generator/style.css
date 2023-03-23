@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(to right, lightblue, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    width: 450px;
+    background: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+#heading {
+    font-size: 20px;
+}
+
+#btn {
+    cursor: pointer;
+    background-color: green;
+    border-radius: 6px;
+    font-size: 16px;
+    color: aliceblue;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+}
+
+#btn:disabled {
+    cursor: not-allowed;
+    background-color: gray;
+}
+
+#picture {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 3px solid green;
+}
+
+#artist {
+    font-size: 17px;
+    font-weight: 600;
+    color: aliceblue;
+    padding: 10px;
+    margin: 20px;
+    background-color: green;
+    border-radius: 6px;
+}
+
+#picture-container{
+    display: none;
+}
