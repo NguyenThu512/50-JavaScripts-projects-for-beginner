@@ -1,4 +1,4 @@
-### A simple website that converts temperatures
+### A simple web that converts temperatures
 
 Demo:
 
