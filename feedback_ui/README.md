@@ -1,4 +1,4 @@
-### A simple website with the feedback function
+### A simple web with the feedback function
 
 Demo:
 
